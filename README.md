@@ -144,8 +144,8 @@ The analysis progresses from **basic descriptive statistics** to **intermediate 
 
 | File Name                                 | Description                                |
 | ----------------------------------------- | ------------------------------------------ |
-| `analysis.ipynb / analysis.py`            | Complete EDA and statistical analysis code |
-| `ecommerce_customer_behavior_dataset.csv` | Raw dataset                                |
+| `E-commerce .ipynb`            | Complete EDA and statistical analysis code |
+| `E-commerce .csv` | Raw dataset                                |
 | `README.md`                               | Project documentation                      |
 
 ---
